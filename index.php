@@ -1,3 +1,3 @@
 <?php
-echo "Bonjour le monde ! c'est la première évaluation";
+echo "Bonjour le monde !";
 ?>
